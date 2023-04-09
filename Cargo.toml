@@ -1,7 +1,11 @@
 [package]
 name = "memo_rs"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+authors = ["Henry Steinberg <henry@steinberg.sh>"]
+description = "An implementation of supermemo2 for rust"
+license = "MIT"
+repository = "https://github.com/HenryPTS/memo_rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
